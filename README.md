@@ -8,10 +8,7 @@
 
 - 📫 Como contactarme **newmariotomas@gmail.com**
 
-<div align="center">
-  <a href="SofiaPinilla">
- <img height="160em" src="https://github-readme-stats-beryl.vercel.app/api?username=SofiaPinilla&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="sofiapinilla" />
-</div>
+
  
 </div>
 <div style="display: inline_block"><br>
